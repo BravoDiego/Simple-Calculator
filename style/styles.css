@@ -76,3 +76,16 @@ body {
     grid-column: span 2;
     border-radius: 5px;
   }
+
+
+footer a {
+    font-weight: 700;
+    padding: 2px;
+}
+footer {
+    color: #F4F4F4;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
